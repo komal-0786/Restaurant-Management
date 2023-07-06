@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Ganga",
+      "email": "ganga@gmail.com",
+      "contact": "9685742536",
+      "address": "Warora",
+      "services": "custurd milk shake"
+    },
+    {
+      "id": 3,
+      "name": "Siya",
+      "email": "siya@gmail.com",
+      "contact": "785496321",
+      "address": "Nashik",
+      "services": "cofee"
+    },
+    {
+      "id": 4,
+      "name": "Shrawani",
+      "email": "shrawni@gmail.com",
+      "contact": "9920564320",
+      "address": "chandrapur",
+      "services": "Fruit juice"
+    },
+    {
+      "id": 5,
+      "name": "Santoshi",
+      "email": "santoshi@gmail.com",
+      "contact": "775582698",
+      "address": "Nagpur",
+      "services": "coka-cola"
+    },
+    {
+      "id": 6,
+      "name": "Gaura",
+      "email": "gaura@gmail.com",
+      "contact": "45879632",
+      "address": "Mul",
+      "services": "Orio shake"
+    },
+    {
+      "id": 7,
+      "name": "Saanvi",
+      "email": "saanvi@gmail.com",
+      "contact": "778529345",
+      "address": "shegav",
+      "services": "Kaju shake"
+    },
+    {
+      "id": 8,
+      "name": "Damru",
+      "email": "damru@gmail.com",
+      "contact": "9685742536",
+      "address": "Ajaypur",
+      "services": "watermelon juice"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Damru",
+      "email": "damru@gmail.com",
+      "mobile": "775826852",
+      "password": "damru",
+      "id": 1
+    },
+    {
+      "name": "prbha@gmail.com",
+      "email": "prbha@gmail.com",
+      "mobile": "7864598525",
+      "password": "456789",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
